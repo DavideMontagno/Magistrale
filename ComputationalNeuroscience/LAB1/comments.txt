@@ -1,0 +1,3 @@
+In this LAB, I compared some models' behaviors. In particular, if we have as input 30 in spike frequency adaptation, 
+the resulting behavior is similar to the tonic spiking one. 
+The same happens when we use input 1 in phasic bursting; in fact, it behaves similarly to the tonic-bursting spiking. 
